@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">博客园_首页</title>
+  <subtitle type="text">代码改变世界</subtitle>
+  <id>uuid:40f72be3-bbef-45f7-9bdc-00e6624ae297;id=56929</id>
+  <updated>2019-08-09T04:30:16Z</updated>
+  <generator>feed.cnblogs.com</generator>
+  <entry>
+    <id>http://www.cnblogs.com/hsxian/p/11326482.html</id>
+    <title type="text">dotnetcore 与 hbase 之二——thrift 客户端的制作 - 麦比乌斯皇</title>
+    <summary type="text">说明 在上一篇文章 "dotnetcore 与 hbase 之一——hbase 环境准备" 结束后，我们已经有了 hbase 数据库环境。接下来就可以利用 thrift 生成 c hbase 客户端了。如果不了解 thrift，请戳 "这里" 。 dotnet core 实现的 thrift thr</summary>
+    <published>2019-08-09T04:24:00Z</published>
+    <updated>2019-08-09T04:24:00Z</updated>
+    <author>
+      <name>麦比乌斯皇</name>
+      <uri>http://www.cnblogs.com/hsxian/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/hsxian/p/11326482.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/hsxian/p/11326482.html" />
+    <content type="html">【摘要】说明 在上一篇文章 "dotnetcore 与 hbase 之一——hbase 环境准备" 结束后，我们已经有了 hbase 数据库环境。接下来就可以利用 thrift 生成 c hbase 客户端了。如果不了解 thrift，请戳 "这里" 。 dotnet core 实现的 thrift thr &lt;a href="http://www.cnblogs.com/hsxian/p/11326482.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/CHANGKTITI/p/11323501.html</id>
+    <title type="text">排序算法——堆排序 - CHANGKTITI</title>
+    <summary type="text">此笔记仅作本人学习、复习与思考用。 堆：是一个完全二叉树，该数据结构遵循一个规则，根节点大小必须大于或者小于孩子节点的大小。 堆排序：利用堆结构的特性来进行排序，比如，假设有数集Z=｛x1，x2，x3，...，xn｝，该数集初始是一个无序序列，现在通过堆排序对其进行排序，首先将该序列调整成堆，即满足</summary>
+    <published>2019-08-09T03:43:00Z</published>
+    <updated>2019-08-09T03:43:00Z</updated>
+    <author>
+      <name>CHANGKTITI</name>
+      <uri>http://www.cnblogs.com/CHANGKTITI/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/CHANGKTITI/p/11323501.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/CHANGKTITI/p/11323501.html" />
+    <content type="html">【摘要】此笔记仅作本人学习、复习与思考用。 堆：是一个完全二叉树，该数据结构遵循一个规则，根节点大小必须大于或者小于孩子节点的大小。 堆排序：利用堆结构的特性来进行排序，比如，假设有数集Z=｛x1，x2，x3，...，xn｝，该数集初始是一个无序序列，现在通过堆排序对其进行排序，首先将该序列调整成堆，即满足 &lt;a href="http://www.cnblogs.com/CHANGKTITI/p/11323501.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/zero-zyq/p/11294433.html</id>
+    <title type="text">Salesforce LWC学习(三)  import &amp; export / api &amp; track - zero.zhang</title>
+    <summary type="text">我们使用vs code创建lwc 时，文件会默认生成包含 template作为头的html文件，包含了 import LightningElement的 js文件以及对应的.js-meta.xml文件。前一个LWC学习的文章中已经说过当浏览器渲染的时候，遇见&lt;template&gt;会将其渲染成&lt;name</summary>
+    <published>2019-08-09T03:43:00Z</published>
+    <updated>2019-08-09T03:43:00Z</updated>
+    <author>
+      <name>zero.zhang</name>
+      <uri>http://www.cnblogs.com/zero-zyq/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/zero-zyq/p/11294433.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/zero-zyq/p/11294433.html" />
+    <content type="html">【摘要】我们使用vs code创建lwc 时，文件会默认生成包含 template作为头的html文件，包含了 import LightningElement的 js文件以及对应的.js-meta.xml文件。前一个LWC学习的文章中已经说过当浏览器渲染的时候，遇见&lt;template&gt;会将其渲染成&lt;name &lt;a href="http://www.cnblogs.com/zero-zyq/p/11294433.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/laoqing/p/11326132.html</id>
+    <title type="text">苏宁人工智能研发中心智能创意平台架构成长之路(一)--长篇开篇 - 张永清</title>
+    <summary type="text">(这是第一篇开篇，成长之路序列会包含多篇，笔者作为这个平台的架构兼技术经理，充分讲述其中的迭代心酸之路以及中间遇到的问题和解决方案) 声明：文章不涉及公司内部技术资料的外泄，涉及的图片都是重画的简易架构图，主要通过架构的演进，讲述分享技术的迭代之路和过程 苏宁人工智能研发中心成立了于2018年，从2</summary>
+    <published>2019-08-09T03:28:00Z</published>
+    <updated>2019-08-09T03:28:00Z</updated>
+    <author>
+      <name>张永清</name>
+      <uri>http://www.cnblogs.com/laoqing/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/laoqing/p/11326132.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/laoqing/p/11326132.html" />
+    <content type="html">【摘要】(这是第一篇开篇，成长之路序列会包含多篇，笔者作为这个平台的架构兼技术经理，充分讲述其中的迭代心酸之路以及中间遇到的问题和解决方案) 声明：文章不涉及公司内部技术资料的外泄，涉及的图片都是重画的简易架构图，主要通过架构的演进，讲述分享技术的迭代之路和过程 苏宁人工智能研发中心成立了于2018年，从2 &lt;a href="http://www.cnblogs.com/laoqing/p/11326132.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/tiger-xc/p/11325996.html</id>
+    <title type="text">restapi（4）- rest-mongo : MongoDB数据库前端的httpserver - 雪川大虫</title>
+    <summary type="text">完成了一套标准的rest风格数据库CRUD操作httpserver后发现有许多不足。主要是为了追求“通用”两个字，想把所有服务接口做的更“范generic”些，结果反而限制了目标数据库的特点，最终产生了一套功能弱小的玩具。比如说吧：标准rest风格getbyId需要所有的数据表都具备id这个字段，有</summary>
+    <published>2019-08-09T03:23:00Z</published>
+    <updated>2019-08-09T03:23:00Z</updated>
+    <author>
+      <name>雪川大虫</name>
+      <uri>http://www.cnblogs.com/tiger-xc/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/tiger-xc/p/11325996.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/tiger-xc/p/11325996.html" />
+    <content type="html">【摘要】完成了一套标准的rest风格数据库CRUD操作httpserver后发现有许多不足。主要是为了追求“通用”两个字，想把所有服务接口做的更“范generic”些，结果反而限制了目标数据库的特点，最终产生了一套功能弱小的玩具。比如说吧：标准rest风格getbyId需要所有的数据表都具备id这个字段，有 &lt;a href="http://www.cnblogs.com/tiger-xc/p/11325996.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/yixinjishu/p/11325845.html</id>
+    <title type="text">四要素落地持续交付 - 宜信技术</title>
+    <summary type="text">本文通过持续集成、自动化测试、流水线以及自动化部署几个要素介绍宜信的持续交付平台及实践。</summary>
+    <published>2019-08-09T02:57:00Z</published>
+    <updated>2019-08-09T02:57:00Z</updated>
+    <author>
+      <name>宜信技术</name>
+      <uri>http://www.cnblogs.com/yixinjishu/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/yixinjishu/p/11325845.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/yixinjishu/p/11325845.html" />
+    <content type="html">【摘要】本文通过持续集成、自动化测试、流水线以及自动化部署几个要素介绍宜信的持续交付平台及实践。 &lt;a href="http://www.cnblogs.com/yixinjishu/p/11325845.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/DataPipeline2018/p/11325825.html</id>
+    <title type="text">DataPipeline丨DataOps理念与设计原则 - DataPipeline数见科技</title>
+    <summary type="text">作者：DataPipeline CEO 陈诚 上周我们探讨了数据的「资产负债表」与「现状」，期间抛给大家一个问题：如果我们制作一个企业的“数据资产负债表”，到底会有多少数据是企业真正的资产？ 数据出现问题并不仅仅是数据部门的原因，更多是组织架构及配合的问题。相较于追责某些工具，反而应该思考该用何种理</summary>
+    <published>2019-08-09T02:54:00Z</published>
+    <updated>2019-08-09T02:54:00Z</updated>
+    <author>
+      <name>DataPipeline数见科技</name>
+      <uri>http://www.cnblogs.com/DataPipeline2018/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/DataPipeline2018/p/11325825.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/DataPipeline2018/p/11325825.html" />
+    <content type="html">【摘要】作者：DataPipeline CEO 陈诚 上周我们探讨了数据的「资产负债表」与「现状」，期间抛给大家一个问题：如果我们制作一个企业的“数据资产负债表”，到底会有多少数据是企业真正的资产？ 数据出现问题并不仅仅是数据部门的原因，更多是组织架构及配合的问题。相较于追责某些工具，反而应该思考该用何种理 &lt;a href="http://www.cnblogs.com/DataPipeline2018/p/11325825.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/java-chen-hao/p/11316795.html</id>
+    <title type="text">Tomcat源码分析 （二）----- Tomcat整体架构及组件 - chen_hao</title>
+    <summary type="text">前言 Tomcat的前身为Catalina，而Catalina又是一个轻量级的Servlet容器。在美国，catalina是一个很美的小岛。所以Tomcat作者的寓意可能是想把Tomcat设计成一个优雅美丽且轻量级的web服务器。Tomcat从4.x版本开始除了作为支持Servlet的容器外，额外加</summary>
+    <published>2019-08-09T02:32:00Z</published>
+    <updated>2019-08-09T02:32:00Z</updated>
+    <author>
+      <name>chen_hao</name>
+      <uri>http://www.cnblogs.com/java-chen-hao/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/java-chen-hao/p/11316795.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/java-chen-hao/p/11316795.html" />
+    <content type="html">【摘要】前言 Tomcat的前身为Catalina，而Catalina又是一个轻量级的Servlet容器。在美国，catalina是一个很美的小岛。所以Tomcat作者的寓意可能是想把Tomcat设计成一个优雅美丽且轻量级的web服务器。Tomcat从4.x版本开始除了作为支持Servlet的容器外，额外加 &lt;a href="http://www.cnblogs.com/java-chen-hao/p/11316795.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/ZhuChangwu/p/11325489.html</id>
+    <title type="text">后端小白的VUE入门笔记, 进阶篇 - 赐我白日梦</title>
+    <summary type="text">使用 vue cli( 脚手架) 搭建项目 常用的目录结构 如果我们的项目是通过脚手架搭建的,这已经是一个比较完善的种子项目了 配置config/index.js 可以在config/index.js中做一下的常用配置 添加跨域的配置 配置项目的主机名,端口号 配置是否打开浏览器 代码检查工具esl</summary>
+    <published>2019-08-09T02:19:00Z</published>
+    <updated>2019-08-09T02:19:00Z</updated>
+    <author>
+      <name>赐我白日梦</name>
+      <uri>http://www.cnblogs.com/ZhuChangwu/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/ZhuChangwu/p/11325489.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/ZhuChangwu/p/11325489.html" />
+    <content type="html">【摘要】使用 vue cli( 脚手架) 搭建项目 常用的目录结构 如果我们的项目是通过脚手架搭建的,这已经是一个比较完善的种子项目了 配置config/index.js 可以在config/index.js中做一下的常用配置 添加跨域的配置 配置项目的主机名,端口号 配置是否打开浏览器 代码检查工具esl &lt;a href="http://www.cnblogs.com/ZhuChangwu/p/11325489.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/37Y37/p/11325353.html</id>
+    <title type="text">前端插件之Datatables使用--上篇 - 运维咖啡吧</title>
+    <summary type="text">工欲善其事，必先利其器 本系列文章介绍我在运维系统开发过程中用到的那些顺手的前端插件，前边两篇分别介绍了 "Duallistbox插件" 和 "Select2插件" 的使用，这一篇开始Databases的征服之旅 Databases是一款基于JQuery的表格插件，主要用来优化table，支持表格分</summary>
+    <published>2019-08-09T02:03:00Z</published>
+    <updated>2019-08-09T02:03:00Z</updated>
+    <author>
+      <name>运维咖啡吧</name>
+      <uri>http://www.cnblogs.com/37Y37/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/37Y37/p/11325353.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/37Y37/p/11325353.html" />
+    <content type="html">【摘要】工欲善其事，必先利其器 本系列文章介绍我在运维系统开发过程中用到的那些顺手的前端插件，前边两篇分别介绍了 "Duallistbox插件" 和 "Select2插件" 的使用，这一篇开始Databases的征服之旅 Databases是一款基于JQuery的表格插件，主要用来优化table，支持表格分 &lt;a href="http://www.cnblogs.com/37Y37/p/11325353.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/Dy1an/p/11325272.html</id>
+    <title type="text">Samba：基于公网 IP 的服务访问 - Dy1an</title>
+    <summary type="text">写在前面的话 由于使用过程中，发现如果 Samba 只用于内网访问，同事在外面甚至其它不是一个网段的同事就无法访问了。这显然不符合我们最终的需求，最后没法，只能把访问部署到云服务器上面去，此时问题来了，不知道你还是否记得某个表情包： 没错，之前的勒索病毒攻击，就是利用 445 端口，所以公网目前是封</summary>
+    <published>2019-08-09T01:51:00Z</published>
+    <updated>2019-08-09T01:51:00Z</updated>
+    <author>
+      <name>Dy1an</name>
+      <uri>http://www.cnblogs.com/Dy1an/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/Dy1an/p/11325272.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/Dy1an/p/11325272.html" />
+    <content type="html">【摘要】写在前面的话 由于使用过程中，发现如果 Samba 只用于内网访问，同事在外面甚至其它不是一个网段的同事就无法访问了。这显然不符合我们最终的需求，最后没法，只能把访问部署到云服务器上面去，此时问题来了，不知道你还是否记得某个表情包： 没错，之前的勒索病毒攻击，就是利用 445 端口，所以公网目前是封 &lt;a href="http://www.cnblogs.com/Dy1an/p/11325272.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/MrHSR/p/11323724.html</id>
+    <title type="text">asp.net core系列 70 即时通迅-WebSocket+Redis发布订阅 - 花阴偷移</title>
+    <summary type="text">一.概述 在asp.net core 中可以用WebSocket 或asp.net core SignalR来开发即时通迅。在项目中由于开发前后端分离，对于SignalR前端技术人员不想依赖juqery和SignalR.js包，后端确定使用WebSocket 来实现。对于asp.net core有自</summary>
+    <published>2019-08-09T01:33:00Z</published>
+    <updated>2019-08-09T01:33:00Z</updated>
+    <author>
+      <name>花阴偷移</name>
+      <uri>http://www.cnblogs.com/MrHSR/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/MrHSR/p/11323724.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/MrHSR/p/11323724.html" />
+    <content type="html">【摘要】一.概述 在asp.net core 中可以用WebSocket 或asp.net core SignalR来开发即时通迅。在项目中由于开发前后端分离，对于SignalR前端技术人员不想依赖juqery和SignalR.js包，后端确定使用WebSocket 来实现。对于asp.net core有自 &lt;a href="http://www.cnblogs.com/MrHSR/p/11323724.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/heibaiying/p/11325073.html</id>
+    <title type="text">Spark 系列（四）—— RDD常用算子详解 - 黑白影</title>
+    <summary type="text">一、Transformation spark 常用的 Transformation 算子如下表： | Transformation 算子 | Meaning（含义） | | | | | map ( func ) | 对原 RDD 中每个元素运用 func 函数，并生成新的 RDD | | filte</summary>
+    <published>2019-08-09T01:13:00Z</published>
+    <updated>2019-08-09T01:13:00Z</updated>
+    <author>
+      <name>黑白影</name>
+      <uri>http://www.cnblogs.com/heibaiying/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/heibaiying/p/11325073.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/heibaiying/p/11325073.html" />
+    <content type="html">【摘要】一、Transformation spark 常用的 Transformation 算子如下表： | Transformation 算子 | Meaning（含义） | | | | | map ( func ) | 对原 RDD 中每个元素运用 func 函数，并生成新的 RDD | | filte &lt;a href="http://www.cnblogs.com/heibaiying/p/11325073.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/lenve/p/11325041.html</id>
+    <title type="text">Spring Boot 修改静态资源一定要重启项目才会生效吗？未必！ - 江南一点雨</title>
+    <summary type="text">回顾热部署 Spring Boot 中的热部署相信大家都用过吧，只需要添加 依赖就可以轻松实现热部署。Spring Boot 中热部署最最关键的原理就是两个不同的 classloader： base classloader restart classloader 其中 base classloade</summary>
+    <published>2019-08-09T00:59:00Z</published>
+    <updated>2019-08-09T00:59:00Z</updated>
+    <author>
+      <name>江南一点雨</name>
+      <uri>http://www.cnblogs.com/lenve/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/lenve/p/11325041.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/lenve/p/11325041.html" />
+    <content type="html">【摘要】回顾热部署 Spring Boot 中的热部署相信大家都用过吧，只需要添加 依赖就可以轻松实现热部署。Spring Boot 中热部署最最关键的原理就是两个不同的 classloader： base classloader restart classloader 其中 base classloade &lt;a href="http://www.cnblogs.com/lenve/p/11325041.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/tree1123/p/11325009.html</id>
+    <title type="text">什么是实时流式计算？ - 独孤风</title>
+    <summary type="text">实时流式计算，也就是RealTime,Streaming,Analyse,在不同的领域有不同的定义,这里我们说的是大数据领域的实时流式计算。 实时流式计算,或者是实时计算,流式计算,在大数据领域都是差不多的概念。那么，到底什么是实时流式计算呢？ 谷歌大神Tyler Akidau在《the world</summary>
+    <published>2019-08-09T00:52:00Z</published>
+    <updated>2019-08-09T00:52:00Z</updated>
+    <author>
+      <name>独孤风</name>
+      <uri>http://www.cnblogs.com/tree1123/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/tree1123/p/11325009.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/tree1123/p/11325009.html" />
+    <content type="html">【摘要】实时流式计算，也就是RealTime,Streaming,Analyse,在不同的领域有不同的定义,这里我们说的是大数据领域的实时流式计算。 实时流式计算,或者是实时计算,流式计算,在大数据领域都是差不多的概念。那么，到底什么是实时流式计算呢？ 谷歌大神Tyler Akidau在《the world &lt;a href="http://www.cnblogs.com/tree1123/p/11325009.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/Young111/p/11324986.html</id>
+    <title type="text">Java学习多线程第二天 - 菜鸟小于</title>
+    <summary type="text">内容介绍 线程安全 线程同步 死锁 Lock锁 等待唤醒机制 1 多线程 1.1 线程安全 如果有多个线程在同时运行，而这些线程可能会同时运行这段代码。程序每次运行结果和单线程运行的结果是一样的，而且其他的变量的值也和预期的是一样的，就是线程安全的。 我们通过一个案例，演示线程的安全问题： 电影院要</summary>
+    <published>2019-08-09T00:46:00Z</published>
+    <updated>2019-08-09T00:46:00Z</updated>
+    <author>
+      <name>菜鸟小于</name>
+      <uri>http://www.cnblogs.com/Young111/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/Young111/p/11324986.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/Young111/p/11324986.html" />
+    <content type="html">【摘要】内容介绍 线程安全 线程同步 死锁 Lock锁 等待唤醒机制 1 多线程 1.1 线程安全 如果有多个线程在同时运行，而这些线程可能会同时运行这段代码。程序每次运行结果和单线程运行的结果是一样的，而且其他的变量的值也和预期的是一样的，就是线程安全的。 我们通过一个案例，演示线程的安全问题： 电影院要 &lt;a href="http://www.cnblogs.com/Young111/p/11324986.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/hunternet/p/11324945.html</id>
+    <title type="text">互联网公司面试经——你不得不知道的哈希表 - 崖边小生</title>
+    <summary type="text">前言   哈希表，又名散列表。是非常常用的一种数据结构，C 的Hashtable、字典，Java的HashMap，Redis的Hash，其底层实现都是散列表。而在一些互联网公司的面试中，更是技术面试官们必问的一道题目。本文将简单了解哈希表(散列表)这种数据</summary>
+    <published>2019-08-09T00:35:00Z</published>
+    <updated>2019-08-09T00:35:00Z</updated>
+    <author>
+      <name>崖边小生</name>
+      <uri>http://www.cnblogs.com/hunternet/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/hunternet/p/11324945.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/hunternet/p/11324945.html" />
+    <content type="html">【摘要】前言   哈希表，又名散列表。是非常常用的一种数据结构，C 的Hashtable、字典，Java的HashMap，Redis的Hash，其底层实现都是散列表。而在一些互联网公司的面试中，更是技术面试官们必问的一道题目。本文将简单了解哈希表(散列表)这种数据 &lt;a href="http://www.cnblogs.com/hunternet/p/11324945.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/tylerzhou/p/11324902.html</id>
+    <title type="text">.netcore持续集成测试篇之开篇简介及Xunit基本使用 - 周国通</title>
+    <summary type="text">"系列目录" 为了支持跨平台,微软为.net平台提供了.net core test sdk,这样第三方测试框架诸如Nunit,Xunit等只需要按照sdk提供的api规范进行开发便可以被dotnet cli工具调用,这样就解决了在持续集成过程中第三方框架依赖于windows平台上的各自runner的</summary>
+    <published>2019-08-09T00:10:00Z</published>
+    <updated>2019-08-09T00:10:00Z</updated>
+    <author>
+      <name>周国通</name>
+      <uri>http://www.cnblogs.com/tylerzhou/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/tylerzhou/p/11324902.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/tylerzhou/p/11324902.html" />
+    <content type="html">【摘要】"系列目录" 为了支持跨平台,微软为.net平台提供了.net core test sdk,这样第三方测试框架诸如Nunit,Xunit等只需要按照sdk提供的api规范进行开发便可以被dotnet cli工具调用,这样就解决了在持续集成过程中第三方框架依赖于windows平台上的各自runner的 &lt;a href="http://www.cnblogs.com/tylerzhou/p/11324902.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/multhree/p/11324786.html</id>
+    <title type="text">利用ImageAI库只需几行python代码超简实现目标检测 - 闽A2436</title>
+    <summary type="text">[toc] 什么是目标检测 目标检测关注图像中特定的物体目标，需要同时解决解决定位（localization） + 识别（Recognition）。相比分类，检测给出的是对图片前景和背景的理解，我们需要从背景中分离出感兴趣的目标，并确定这一目标的描述（类别和位置），因此检测模型的输出是一个列表，列表</summary>
+    <published>2019-08-08T17:21:00Z</published>
+    <updated>2019-08-08T17:21:00Z</updated>
+    <author>
+      <name>闽A2436</name>
+      <uri>http://www.cnblogs.com/multhree/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/multhree/p/11324786.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/multhree/p/11324786.html" />
+    <content type="html">【摘要】[toc] 什么是目标检测 目标检测关注图像中特定的物体目标，需要同时解决解决定位（localization） + 识别（Recognition）。相比分类，检测给出的是对图片前景和背景的理解，我们需要从背景中分离出感兴趣的目标，并确定这一目标的描述（类别和位置），因此检测模型的输出是一个列表，列表 &lt;a href="http://www.cnblogs.com/multhree/p/11324786.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+  <entry>
+    <id>http://www.cnblogs.com/jclian91/p/11324681.html</id>
+    <title type="text">NLP（十四）自制序列标注平台 - jclian91</title>
+    <summary type="text">在平时的NLP任务中，我们经常用到命名实体识别（NER），常用的识别实体类型为人名、地名、组织机构名，但是我们往往也会有识别其它实体的需求，比如时间、品牌名等。在利用算法做实体识别的时候，我们一般采用序列标注算法，这就对标注的文本格式有一定的要求，因此，一个好的序列标注的平台必不可少，将会大大减少我...</summary>
+    <published>2019-08-08T16:10:00Z</published>
+    <updated>2019-08-08T16:10:00Z</updated>
+    <author>
+      <name>jclian91</name>
+      <uri>http://www.cnblogs.com/jclian91/</uri>
+    </author>
+    <link rel="alternate" href="http://www.cnblogs.com/jclian91/p/11324681.html" />
+    <link rel="alternate" type="text/html" href="http://www.cnblogs.com/jclian91/p/11324681.html" />
+    <content type="html">【摘要】在平时的NLP任务中，我们经常用到命名实体识别（NER），常用的识别实体类型为人名、地名、组织机构名，但是我们往往也会有识别其它实体的需求，比如时间、品牌名等。在利用算法做实体识别的时候，我们一般采用序列标注算法，这就对标注的文本格式有一定的要求，因此，一个好的序列标注的平台必不可少，将会大大减少我... &lt;a href="http://www.cnblogs.com/jclian91/p/11324681.html" target="_blank"&gt;阅读全文&lt;/a&gt;</content>
+  </entry>
+</feed>
