@@ -33,6 +33,7 @@ public class PaginationUtils {
       totalPage=_tp.intValue();
     }catch (Exception e){
       //error
+      e.printStackTrace();
     }
     return totalPage;
   }
@@ -50,6 +51,7 @@ public class PaginationUtils {
       //offset从0开始
       offset=new BigDecimal(currentPage).multiply(new BigDecimal(pageSize)).longValue();
     }catch (Exception e){
+      e.printStackTrace();
     }
     return offset;
   }

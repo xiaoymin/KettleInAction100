@@ -170,8 +170,8 @@ public void logRowlevel( String message, Object... arguments ) {
 
 通过查看Api,我们已经知道了具体的方法,主要有两种方式
 
-- 通过LogChannelFactory工厂构造LogChannel对象,然后调用相应的日志方法进行输出
-- 直接构造LogChannel方法,调用方法日志输出
+- 通过`LogChannelFactory`工厂构造`LogChannel`对象,然后调用相应的日志方法进行输出
+- 直接构造`LogChannel`方法,调用方法日志输出
 
 两种方式都可以，先来看第一种
 
@@ -198,6 +198,41 @@ log.logMinimal("XXXXXXXXXXXXXXXXXXXXXXXX-preRows:"+preRows.size());
 最终我们运行时,可以在控制台看见我们的日志输出,方便我们调试,定位解决问题：
 
 ![](kia-jsLog-1.png)
+
+## 简单方法
+
+在转换中的JavaScript脚本组件中,我们还可以使用内置函数进行日志输出,日志函数主要有2个：
+
+- `writeToLog(msg)`:写入日志,传入msg要打印的信息
+- `writeToLog(level,msg)`：第一个是日志级别的简称,第二个是要输出的日志参数
+
+介绍说明：
+
+```javascript
+// Usage:
+// writeToLog(var);
+// 1: String - The Message which should be written to
+// the Kettle Debug Log
+//
+// writeToLog(var,var);
+// 1: String - The Type of the Log
+// d - Debug
+// l - Detailed
+// e - Error
+// m - Minimal
+// r - RowLevel
+```
+
+代码如下：
+
+```javascript
+var test="测试日志";
+
+writeToLog(test)
+writeToLog('d',test)// Debug级别输出
+```
+
+另外需要注意的是,该函数只能在转换中的JavaScript脚本组件中使用,不能在作业的脚本组件中使用.
 
 ## 日志级别
 
